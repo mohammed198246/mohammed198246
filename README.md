@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed 👋🏾 👩🏾‍💻
+# Hi, I'm Mohamed 🙋🏻‍♂️
 <p align="center"><a href="https://mohammed198246.github.io"><img width="80%" src="./assets/header-photo.jfif" /></a></p>
 
 <br />
@@ -8,11 +8,11 @@
 
 - 💼 Mohammed Idriss, PhD at [Albaha University](https://bu.edu.sa/ar/home)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈  I’m currently working on: [FractionalCalculus.jl](https://github.com/SciFracX/FractionalCalculus.jl)
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 👯 I’m looking to collaborate on: anything somehow related to computational mathematics.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about: programming in Julia, computational algebraic geometry
 
 
 
@@ -20,7 +20,7 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/julia/julia.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
