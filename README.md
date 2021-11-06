@@ -41,10 +41,17 @@
 <br />
 <br />
 
-<a href="https://twitter.com/mohammedb198246">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-## Connect with Me 🤝🏻
+
+###### Socials 🤝
+
+<p align="left">
+  <a href="https://github.com/mohammed198246?tab=followers">
+    <img src="https://img.shields.io/github/followers/allanregush?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/mohammed198246">
+    <img src="https://img.shields.io/twitter/follow/allanregush?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="http://youtube.com/channel/UCm3gi8KLvEcIHT1SzSqeOcg?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/hdtmIWETSTI?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
+</p>
