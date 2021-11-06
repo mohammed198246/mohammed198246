@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Mohammed Idriss, PhD at [Albaha University](https://bu.edu.sa/ar/home)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
