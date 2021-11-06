@@ -1,5 +1,5 @@
 # Hi, I'm Mohamed 👋🏾 👩🏾‍💻
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://mohammed198246.github.io"><img width="80%" src="./assets/header-photo.jfif" /></a></p>
 
 <br />
 
